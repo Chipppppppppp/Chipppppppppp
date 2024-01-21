@@ -1,2 +1,1 @@
-C++/Python
-Android modding
+AtCoder: Blue, C++/Python/JS, Android modding
